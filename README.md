@@ -53,5 +53,3 @@ This project is licensed under the MIT License.
 - IVAN JAMES CUMBA
 - SEAN PAUL DE GUZMAN
 - RISHALENN PELRIJA
-
-Note: You can customize this README file to fit your project's specific needs and style.
