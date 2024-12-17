@@ -1,18 +1,57 @@
+# BookBytes
+================
+
+A Java-based book management system for libraries.
+
+## Overview
+------------
+
+BookBytes is a comprehensive book management system designed for libraries. The system allows users to search for books by author, title, or ISBN, and also provides features for adding, editing, and deleting book records.
+
+## Features
+------------
+
+* Search for books by author, title, or ISBN
+* Add new book records
+* Edit existing book records
+* Delete book records
+* User-friendly interface
+
+## Technologies Used
+--------------------
+
+* Java
+* JDBC for database connectivity
+* Swing for GUI
+
 ## Getting Started
+---------------
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+To run the project, follow these steps:
 
-## Folder Structure
+1. Clone the repository to your local machine.
+2. Import the project into your preferred IDE (Vs Code, Eclipse, NetBeans, etc.).
+3. Configure the database connection settings in the `Database.java` file.
+4. Run the `App.java` file to launch the application.
 
-The workspace contains two folders by default, where:
+## Contributing
+------------
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## License
+-------
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+This project is licensed under the MIT License.
 
-## Dependency Management
+## Acknowledgments
+---------------
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## CREATORS
+- EDIMAR S. MOSQUIDA
+- JOHN VINCENT NOGAS
+- IVAN JAMES CUMBA
+- SEAN PAUL DE GUZMAN
+- RISHALENN PELRIJA
+
+Note: You can customize this README file to fit your project's specific needs and style.
